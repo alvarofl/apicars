@@ -1,0 +1,22 @@
+[
+  {"fabricante": "Toyota", "nome": "Corolla", "modelo": ["Altis", "XEi", "GLi"]},
+  {"fabricante": "Honda", "nome": "Civic", "modelo": ["EX", "Sport", "Touring"]},
+  {"fabricante": "Ford", "nome": "Focus", "modelo": ["SE", "Titanium"]},
+  {"fabricante": "Chevrolet", "nome": "Onix", "modelo": ["LT", "LTZ", "Premier"]},
+  {"fabricante": "Volkswagen", "nome": "Golf", "modelo": ["TSI", "GTI"]},
+  {"fabricante": "Hyundai", "nome": "HB20", "modelo": ["Comfort", "Evolution"]},
+  {"fabricante": "Nissan", "nome": "Sentra", "modelo": ["S", "SV"]},
+  {"fabricante": "Peugeot", "nome": "208", "modelo": ["Like", "Griffe"]},
+  {"fabricante": "Renault", "nome": "Sandero", "modelo": ["Life", "Intense"]},
+  {"fabricante": "Fiat", "nome": "Argo", "modelo": ["Drive", "Trekking"]},
+  {"fabricante": "Jeep", "nome": "Compass", "modelo": ["Sport", "Longitude"]},
+  {"fabricante": "Kia", "nome": "Cerato", "modelo": ["EX", "SX"]},
+  {"fabricante": "BMW", "nome": "320i", "modelo": ["GP", "M Sport"]},
+  {"fabricante": "Mercedes-Benz", "nome": "C180", "modelo": ["Avantgarde", "Exclusive"]},
+  {"fabricante": "Audi", "nome": "A3", "modelo": ["Sedan", "Sportback"]},
+  {"fabricante": "Volvo", "nome": "XC60", "modelo": ["Inscription", "R-Design"]},
+  {"fabricante": "Mitsubishi", "nome": "Lancer", "modelo": ["HL", "GT"]},
+  {"fabricante": "Subaru", "nome": "Impreza", "modelo": ["Sedan", "Hatch"]},
+  {"fabricante": "Mazda", "nome": "3", "modelo": ["Touring", "Grand Touring"]},
+  {"fabricante": "Tesla", "nome": "Model 3", "modelo": ["Standard", "Performance"]}
+]
