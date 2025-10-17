@@ -1,4 +1,4 @@
-    package model;
+    package Model;
     import java.util.List;
     public class CarModel {
         private String fabricante;
